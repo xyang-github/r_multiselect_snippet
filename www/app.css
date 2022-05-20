@@ -1,0 +1,11 @@
+body {
+  min-height: 100vh;
+}
+
+#select_widget {
+  width: 100%;
+}
+
+.row {
+  margin-bottom: 1rem;
+}
